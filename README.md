@@ -1,6 +1,4 @@
 # haze
-20160727
 
-20160727
-
-`test`
+- mapreduce 读取hive rcfile  
+TestRCFileReader.java
