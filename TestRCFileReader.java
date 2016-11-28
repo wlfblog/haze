@@ -1,4 +1,4 @@
-package com.letv.map;
+package test;
 
 import org.apache.commons.lang.CharEncoding;
 import org.apache.hadoop.conf.Configuration;
